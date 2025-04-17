@@ -14,4 +14,4 @@ This TODO App lets you manage tasks using **priorities** to help you stay organi
 Make sure Python 3 is installed. Then:
 
 ```bash
-python todo_app.py
+python todo.py
