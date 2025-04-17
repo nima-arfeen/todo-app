@@ -1,4 +1,4 @@
-# TODO App (Console-Based)
+# TODO App (Python CLI Version)
 
 This TODO App lets you manage tasks using **priorities** to help you stay organized.
 
